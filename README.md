@@ -11,6 +11,6 @@
 | Артефакт | Описание |
 |---|---|
 | [🗺 Mind Map тестирования](https://disk.yandex.ru/i/4sF_78-f242VPw) | Декомпозиция функциональности А-Чата и тестового покрытия |
-| [📊 Чек-лист тестирования](https://disk.yandex.ru/i/C_RaBH8SxIvZBg) | 600+ проверок: Core Use Cases, Smoke, Regression, Negative, Boundary, Error Handling, Security/Roles и UI/UX |
+| [📊 Чек-лист тестирования](https://disk.yandex.ru/d/kuy3759lraypLA)) | 600+ проверок: Core Use Cases, Smoke, Regression, Negative, Boundary, Error Handling, Security/Roles и UI/UX |
 | [🔌 Mind Map REST API](https://disk.yandex.ru/i/qkiMHpJlkZ5Lkg) | Схема API и клиент-серверного взаимодействия А-Чата |
 | [🐞 Баг-репорты](https://disk.yandex.ru/i/fwVa97zhkLhqyA) | Примеры обнаруженных и оформленных дефектов |
